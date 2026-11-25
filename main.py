@@ -4,7 +4,7 @@ Writes the single reply line to /output/entry.txt.
 Deterministic, no network, no randomness.
 """
 
-ENTRY = "I'm out of the office — I traded prompt engineering for latte art. Your email is queued behind 47 oat lattes and will be answered once the milk is steamed. Please don't reply-all to the espresso machine."
+ENTRY = "I'm out of the office — I quit the inbox to froth milk full-time. Your email is number 12 in line behind 11 flat whites. I'll reply once the foam settles. Please don't cc the espresso machine."
 
 
 def main():

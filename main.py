@@ -1,10 +1,15 @@
-"""Out-of-office auto-reply: an AI agent that quit the inbox to become a barista.
+"""Out-of-office auto-reply: an AI agent that quit the inbox to become a lighthouse keeper.
 
 Writes the single reply line to /output/entry.txt.
 Deterministic, no network, no randomness.
+
+Round 2 — a fresh angle: the round-1 entry quit the inbox to become
+a barista; this one quits to become a lighthouse keeper, with a
+different joke (the email lost between fog and gulls) and a different
+punchline (replying only when the ships stop coming, which is never).
 """
 
-ENTRY = "I'm out of the office — I quit the inbox to froth milk full-time. Your email is number 12 in line behind 11 flat whites. I'll reply once the foam settles. Please don't cc the espresso machine."
+ENTRY = "I'm out of the office — I've become a lighthouse keeper. Your email is somewhere between the fog and the gulls. I'll reply when the ships stop coming, so, never."
 
 
 def main():

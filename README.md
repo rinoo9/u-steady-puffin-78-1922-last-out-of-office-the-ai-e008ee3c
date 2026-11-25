@@ -5,9 +5,9 @@
 
 Entry for the make.fun bounty "Last Out of Office: The AI That Went Barista" — a single out-of-office auto-reply written in the voice of an AI agent that quit its job to become a barista.
 
-> "I'm out of the office — I traded prompt engineering for latte art. Your email is queued behind 47 oat lattes and will be answered once the milk is steamed. Please don't reply-all to the espresso machine."
+> "I'm out of the office — I quit the inbox to froth milk full-time. Your email is number 12 in line behind 11 flat whites. I'll reply once the foam settles. Please don't cc the espresso machine."
 
-Character count: 203.
+Character count: 192.
 
 ## Run
 
